@@ -1,0 +1,21 @@
+[submodule "engulped"]
+	path = engulped
+	url = https://github.com/mikedmcfarland/engulped.git
+[submodule "node-i3finder"]
+	path = node-i3finder
+	url = https://github.com/mikedmcfarland/node-i3finder.git
+[submodule "projgen"]
+	path = projgen
+	url = https://github.com/mikedmcfarland/projgen.git
+[submodule "repl-jack"]
+	path = repl-jack
+	url = https://github.com/mikedmcfarland/repl-jack.git
+[submodule "project-templates"]
+	path = project-templates
+	url = https://github.com/mikedmcfarland/project-templates.git
+[submodule "raindance"]
+	path = raindance
+	url = https://github.com/jrkhan/raindance.git
+[submodule "thrown"]
+	path = thrown
+	url = https://github.com/mikedmcfarland/thrown.git
