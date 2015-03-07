@@ -19,3 +19,6 @@
 [submodule "thrown"]
 	path = thrown
 	url = https://github.com/mikedmcfarland/thrown.git
+[submodule "raindance.wiki"]
+	path = raindance.wiki
+	url = https://github.com/jrkhan/raindance.wiki.git
