@@ -22,3 +22,6 @@
 [submodule "raindance.wiki"]
 	path = raindance.wiki
 	url = https://github.com/jrkhan/raindance.wiki.git
+[submodule "raindance.gdd"]
+	path = raindance.gdd
+	url = https://github.com/mikedmcfarland/raindance.gdd.git
